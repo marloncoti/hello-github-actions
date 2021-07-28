@@ -1,4 +1,4 @@
-name: name: My First CI/CD Pipeline with Github Actions
+name: My First CI/CD Pipeline with Github Actions
 on: 
   push:
     branches: [marloncoti-patch-1]
